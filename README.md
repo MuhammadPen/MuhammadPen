@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadPen
 - 👀 I’m interested in Procedural 3D workflows
-- 🌱 I’m currently learning Engineering and game development
+- 🌱 I’m currently doing Engineering and game development
 - 💞️ I’m looking to collaborate on 3D tools
 - 📫 How to reach me: Splasheoo@gmail.com
 
