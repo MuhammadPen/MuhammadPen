@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadPen
-- 👀 I’m interested javascript and cloud technologies
-- 🌱 I’m currently working at z2aTech
-- 💞️ I’m looking to collaborate on innovative and exciting technologies
+- 👀 Interested javascript and cloud technologies
+- 🌱 currently working at 1mind
+- 💞️ looking to collaborate on innovative and exciting technologies
 - 📫 How to reach me: muhammadpen@gmail.com
 
 <!---
